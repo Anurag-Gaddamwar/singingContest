@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168948727078",
+    "project_id": "singingcontest-ed67b",
+    "storage_bucket": "singingcontest-ed67b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168948727078:android:20f43656e66716b1e9d5e7",
+        "android_client_info": {
+          "package_name": "com.anurag9823.singingContest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1J_9Btu9jr05v0e8IOqAF-LNXlmqsAKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
